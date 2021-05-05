@@ -1,0 +1,31 @@
+
+#orden {
+    padding: 20px;
+    background: rgb(182, 165, 69); 
+    color:black;
+}
+
+body{
+    background: rgb(166, 209, 230);
+}
+
+
+header{
+background:url("../images/imagendefondo.jpg") ;
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+width: 100%;
+height: 25vh;
+}
+
+.contenedor{
+    width: 80%;
+    margin:0 auto;
+}
+
+.contenido-titulo h1{
+    font-size: 40px;
+    color:maroon;
+    border: 15px double rgb(187, 209, 105);
+}
